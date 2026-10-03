@@ -27,5 +27,5 @@ By keeping only the top k singular values from Σ and discarding the rest, we co
 3. Open `svd_matrix_compression.ipynb` in Jupyter Notebook and execute the cells.
 
 ## Author
-*   **Name:** aabiakhan170
+*   **Name:** Aabia Khan
 *   **Background:** B.Sc. Mathematics Student
